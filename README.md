@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emrullah Yavuz</h1>
 <h3 align="center">A passionate Frontend Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React.js,Next.js**
 
 - 🌱 I’m currently learning **Node.js,Express.js**
 

@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emrullah Yavuz</h1>
-<h3 align="center">A passionate Frontend Developer from Türkiye</h3>
+<h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React.js,Next.js**
-
-- 🌱 I’m currently learning **Node.js,Express.js**
-
-- 💬 Ask me about **React.js**
+- 🔭 I’m currently working on **React.js, Next.js, Node.js, Express.js, mongoDB**
+- 💬 Ask me about **MERN Stack Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
